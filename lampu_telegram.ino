@@ -3,7 +3,7 @@ CTBot myBot;
  
 String ssid  = "ARMhome"; 
 String pass  = "rahasia"; 
-String token = "5640932958:AAE5xxr2dwB6GTNtvEEvNYVn4-rezaxMyv0";
+String token = "5640932958:AAE5xxfkm456GTNtvEEvNYVn4-rezaxMyv0";
  
 const int lampu1 = 4;   //D2                     
 const int lampu2 = 5;   //D1
